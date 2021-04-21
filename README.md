@@ -9,3 +9,5 @@ The repository contains the main C++ code in the data structure textbook edited 
 7.1 二叉堆
 
 7.3 二叉堆的应用：模拟队列流程
+
+9.1 二叉查找树
