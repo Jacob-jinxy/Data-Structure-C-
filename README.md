@@ -13,3 +13,5 @@ The repository contains the main C++ code in the data structure textbook edited 
 9.1 二叉查找树
 
 9.2 AVL树
+
+9.3.1 开散列表
